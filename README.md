@@ -1,4 +1,5 @@
-## Olá !!! Bem vindo ao meu github... :D
+## Olá  !!! Sejam Bem-vindos ao meu GitHub !!!
+
 <div align="center">
   <a href="https://github.com/Gabriel-Castro-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Castro-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,6 +20,6 @@
 
 <div> 
  <a href="https://discord.gg/zerooo#5359" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielpedrocastro2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielpedrocastro2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=RED" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-pedro-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
