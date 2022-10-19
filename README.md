@@ -1,7 +1,7 @@
 ## Olá  !!! Sejam Bem-vindos ao meu GitHub !!!
 
 <div align="center">
-  <a href="https://github.com/Gabriel-Castro-Dev">
+  <a href="https://github.com/GabrielPedroDeCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPedroDeCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPedroDeCastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -13,6 +13,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Gabriel:D" height="150" style="border-radius:80px;" src="https://media1.giphy.com/media/JXMTJYvGsZ4WnLmKBx/giphy.webp">
 </div>
 
 ##
