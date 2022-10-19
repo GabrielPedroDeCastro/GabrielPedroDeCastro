@@ -1,4 +1,4 @@
-## Olá Pessoal, Sejam Bem-vindos ao meu GitHub !!! <img height="40" width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> <img height="40" width="40" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/partying-face_1f973.png"> 
+## Olá Pessoal, Sejam Bem-vindos ao meu GitHub !!! <img height="30" width="30" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> <img height="30" width="30" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/partying-face_1f973.png"> 
 
 <div align="center">
   <a href="https://github.com/GabrielPedroDeCastro">
