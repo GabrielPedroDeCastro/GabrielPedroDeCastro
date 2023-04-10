@@ -1,8 +1,4 @@
-## Olá Pessoal, Sejam Bem-vindos ao meu GitHub !!! 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF729C&vCenter=true&width=555&height=90&lines=Olá Pessoal,Sejam Bem-vindos ao meu GitHub !!! " alt="Typing SVG" /></a></div>
-
-<img height="30" width="30" src="https://em-content.zobj.net/thumbs/120/google/350/smiling-face-with-hearts_1f970.png"> <img height="30" width="30" src="https://em-content.zobj.net/thumbs/120/google/350/nerd-face_1f913.png"> 
+<a href="https://git.io/typing-svg"><a href=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=750&color=F73D9A&width=435&lines=Ol%C3%A1!!+Seja+Bem-vindo+ao+meu+GitHub!!!+)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/GabrielPedroDeCastro">
