@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=750&color=F744A9&width=435&lines=Ol%C3%A1!!+Seja+Bem-vindo+ao+meu+GitHub!!!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&color=F744A9&width=435&lines=Ol%C3%A1!!+Seja+Bem-vindo+ao+meu+GitHub!!!+" alt="Typing SVG" /></a>
 
 <div align="center">
   <a href="https://github.com/GabrielPedroDeCastro">
