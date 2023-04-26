@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&color=F744A9&width=435&lines=Ol%C3%A1!!+Seja+Bem-vindo+ao+meu+GitHub!!!+" alt="Typing SVG" /></a>
 
+ </br> 
+
 <div align="center">
   <a href="https://github.com/GabrielPedroDeCastro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielPedroDeCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
