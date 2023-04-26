@@ -17,7 +17,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Gabriel:D" height="150" style="border-radius:80px;" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47kg357wioyqyd94oelmqvbejs68mtvz42r2c3fo2x&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" alt="Gabriel:D" height="150" style="border-radius:80px;" src="https://media1.giphy.com/media/JXMTJYvGsZ4WnLmKBx/giphy.webp">
 </div>
 
 ##
